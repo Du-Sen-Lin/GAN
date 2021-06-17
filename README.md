@@ -26,7 +26,11 @@ CUDA10.1 ; Pytorch1.5.1 ; python 3.7 ......
 
 GPU, 10轮左右效果就能展现出来了。
 
-## 1、Auxiliary Classifier GAN
+## 1、DCGAN
+
+https://github.com/Du-Sen-Lin/Pytorch/blob/main/pytoch_example/06_dcgan_torch.ipynb
+
+## 2、Auxiliary Classifier GAN
 
 
 
